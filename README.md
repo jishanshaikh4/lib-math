@@ -2,8 +2,14 @@
 A mathematical library in C Programming language having implementation of Gamma, Bessel, trigonometric, hyperbolic, approximation functions from scratch.
 
 # Sections
+- [To do](https://github.com/Jishanshaikh4/lib-math/blob/master/README.md#to-do)
 - [Contributions](https://github.com/Jishanshaikh4/lib-math/blob/master/README.md#contributions)
 - [License](https://github.com/Jishanshaikh4/lib-math/blob/master/README.md#license)
+
+## To do
+- Insert files in bessel, trigonometry, hyperbolic folders. (NOT DONE YET)
+- Add more files in numerical-methods. (NOT DONE YET)
+- Add more fields of mathematics. (NOT DONE YET)
 
 ## Contributions
 I'm willing to accept contributions from open source developers. What you have to do is simply fork this repository, made changes to it, and leave a pull request. Anybody can contribute to this repository following industry ethics.
