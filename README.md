@@ -1,5 +1,5 @@
 # lib-math
-A mathematical library in C Programming language having implementation of Gamma, Bessel, trigonometric, hyperbolic, approximation functions from scratch.
+A mathematical library in C Programming language having implementation of Gamma, Bessel, trigonometric, hyperbolic, approximation functions from scratch. It will also include functions for computation and geometry.
 
 # Sections
 - [To do](https://github.com/Jishanshaikh4/lib-math/blob/master/README.md#to-do)
@@ -8,6 +8,7 @@ A mathematical library in C Programming language having implementation of Gamma,
 
 ## To do
 - Insert files in bessel, trigonometry, hyperbolic folders. (NOT DONE YET)
+- Add a new section of Geometry. (NOT DONE YET)
 - Add more files in numerical-methods. (NOT DONE YET)
 - Add more fields of mathematics. (NOT DONE YET)
 
