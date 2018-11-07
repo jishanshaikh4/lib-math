@@ -1,4 +1,8 @@
 // Fast fourier transform in C (Learnt from rosetta code)
+/* OUTPUT:
+Data: 1 1 1 1 0 0 0 0 
+FFT : 4 (1, -2.41421) 0 (1, -0.414214) 0 (1, 0.414214) 0 (1, 2.41421)
+*/
 
 #include <stdio.h>
 #include <math.h>
