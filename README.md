@@ -12,6 +12,7 @@ A mathematical library in C Programming language having implementation, and use 
 - Add more files in numerical-methods. (NOT DONE YET)
 - Add more fields of mathematics. (NOT DONE YET)
 - Add new sections in master branch. (NOT DONE YET)
+- Create new branches.
 
 ## Contributions
 I'm willing to accept contributions from open source developers. What you have to do is simply fork this repository, made changes to it, and leave a pull request. Anybody can contribute to this repository following industry ethics.
