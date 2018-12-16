@@ -43,6 +43,7 @@ void show(const char * s, cplx buf[]) {
 			printf("(%g, %g) ", creal(buf[i]), cimag(buf[i]));
 }
  
+// Driver code
 int main(){
 	PI = atan2(1, 1) * 4;
 	cplx buf[] = {1, 1, 1, 1, 0, 0, 0, 0};
