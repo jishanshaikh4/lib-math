@@ -7,6 +7,8 @@ A mathematical library in C Programming language having implementation, and use 
 - [License](https://github.com/Jishanshaikh4/lib-math/blob/master/README.md#license)
 
 ## To do
+- Paper, Report, and Source Code compilation. (NOT DONE YET)
+- Release first version (NOT DONE YET, BECAUSE IT IS NOT COMPLETED YET :(
 - Insert files in bessel, trigonometry, hyperbolic folders. (NOT DONE YET)
 - Add a new section of Geometry. (NOT DONE YET)
 - Add more files in numerical-methods. (NOT DONE YET)
