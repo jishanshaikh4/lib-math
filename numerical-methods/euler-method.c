@@ -18,7 +18,7 @@ int main(){
   y1=y0;
   while(1){
     if(x1 > x)
-      return;
+      break;
     y1 += h*df(x1, y1);
     x1 += h;
     printf("When x = %3.1f, y = %4.2f\n", x1, y1);
