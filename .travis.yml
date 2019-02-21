@@ -1,3 +1,5 @@
+# Learnt from https://github.com/richelbilderbeek/travis_cpp_tutorial/blob/master/travis_cpp_tutorial.pdf
+
 language: cpp
 dist: trusty
 sudo: required
@@ -18,3 +20,6 @@ install:
 
 # Actual building the project
 script:
+  - qmake
+  - make
+- ./travis-qmake-clang-c++14
