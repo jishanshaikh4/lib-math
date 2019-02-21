@@ -1,0 +1,25 @@
+{
+  "os": "linux",
+  "env": "COMPILER_NAME=clang CXX=clang++-3.8 CC=clang-3.8",
+  "dist": "trusty",
+  "sudo": "required",
+  "group": "stable",
+  "addons": {
+    "apt": {
+      "sources": null,
+      "packages": [
+        "clang-3.8"
+      ]
+    }
+  },
+  "script": [
+    
+  ],
+  "install": [
+    "sudo update-alternatives --install /usr/bin/clang++ clang++ /usr/bin/clang++-3.8 90",
+    "sudo update-alternatives --install /usr/bin/clang clang /usr/bin/clang-3.8 90",
+    "sudo apt-get install -y libc++-dev libc++abi-dev"
+  ],
+  "compiler": "clang",
+  "language": "cpp"
+}
