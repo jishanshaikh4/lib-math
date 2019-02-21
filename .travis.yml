@@ -18,5 +18,3 @@ install:
 
 # Actual building the project
 script:
-  - qmake
-  - make
