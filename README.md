@@ -2,7 +2,7 @@
 
 ![](https://travis-ci.com/Jishanshaikh4/lib-math.svg?branch=master)
 
-A mathematical library in C Programming language having implementation, and use of various mathematical functions from scratch or standard library. It will also include functions for computational geometry (Long term goal).
+A mathematical library in C Programming language having implementation, and use of various mathematical functions from scratch or standard library. It will also include functions for computational geometry (Long term goal)
 
 # Sections
 - [To do](https://github.com/Jishanshaikh4/lib-math/blob/master/README.md#to-do)
