@@ -1,5 +1,5 @@
 # Main source file to be built
-# SOURCES += file-main.cpp
+0
 
 # qmake c++14 flags addition, NOTE: warnings here are errors in building
 QMAKE_CXXFLAGS += -Wall -Wextra -Weffc++ -Werror
