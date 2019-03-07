@@ -1,0 +1,2 @@
+#DEFINE NAN nan
+
