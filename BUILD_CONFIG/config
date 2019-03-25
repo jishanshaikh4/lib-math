@@ -6,7 +6,6 @@
   "group": "stable",
   "addons": {
     "apt": {
-      "sources": null,
       "packages": [
         "clang-3.8"
       ]
