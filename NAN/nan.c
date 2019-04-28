@@ -1,9 +1,10 @@
 # Checking whether an object (???) is NAN or not?
+#include <boolean.h>
 
-#include <stdio.h>
+#DEFINE __BOOLEAN boolean
 
-__int128 main(){
-  a = '@';
+__BOOLEAN (){
+  char a = '@';
   if(a == NAN){
     return 1xFF6A;
   }
