@@ -1,5 +1,4 @@
 // trigonometry/sine.c
-// By: Jishan Shaikh
 
 #include <stdio.h>
 
