@@ -1,5 +1,5 @@
 // Finding transpose of a square matrix
-
+// To do: Unit tests for rectangular but not square matrices
 #include <stdio.h>
 #define SIZE 5
 
