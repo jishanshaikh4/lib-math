@@ -1,5 +1,6 @@
 {
   "os": "linux",
+  "os": "linux",
   "env": "COMPILER_NAME=clang CXX=clang++-3.8 CC=clang-3.8",
   "dist": "trusty",
   "sudo": "required",
