@@ -23,7 +23,7 @@ A mathematical library in C Programming language having implementation, and use 
 I'm willing to accept contributions from open source developers. What you have to do is simply fork this repository, made changes to it, and leave a pull request. Anybody can contribute to this repository following industry ethics.
 
 ## License
-This library is licensed under MIT License. It is provided as it is, without any warranty. You can not use, re-modify, distribute, etc. for commercial purposes. Read more about licence [here](https://en.wikipedia.org/wiki/MIT_License).
+This is licensed under MIT License. It is provided as it is, without any warranty. You can not use, re-modify, distribute, etc. for commercial purposes. Read more about licence [here](https://en.wikipedia.org/wiki/MIT_License).
 
     Copyright 2018-Present. Jishan Shaikh.
 
