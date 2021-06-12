@@ -1,6 +1,7 @@
 # :beginner: lib-math
 
-![](https://travis-ci.com/Jishanshaikh4/reversed-chess.svg?branch=master)
+![](https://travis-ci.com/Jishanshaikh4/reversed-chess.svg?branch=master) [![CodeFactor](https://www.codefactor.io/repository/github/jishanshaikh4/lib-math/badge)](https://www.codefactor.io/repository/github/jishanshaikh4/lib-math)
+
 
 A mathematical library in C Programming language having implementation, and use of various mathematical functions from scratch or standard library. It will also include functions for computational geometry (Long term goal)
 
