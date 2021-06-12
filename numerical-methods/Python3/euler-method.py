@@ -13,7 +13,7 @@ if __name__ == "__name__":
   while 1:
     if x1 > x:
       break
-    y1 += h * df(x1, y1);
+    y1 += h * df(x1, y1)
     x1 += h
     # print("When x = %3.1f, y = %4.2f\n", x1, y1);
     
